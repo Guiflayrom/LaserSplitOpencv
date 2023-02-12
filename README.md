@@ -38,3 +38,6 @@ if FILE == 'mortadela.jpg':
     THRESH = 235
 ```
 
+Result:
+
+![Result](result.png)
